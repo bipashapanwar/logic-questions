@@ -1,4 +1,5 @@
 # logicQuestions
+Contains leetcode questions solved using mainly Python and a few with Java.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
